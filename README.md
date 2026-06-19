@@ -1,6 +1,6 @@
 # 🗳️ Voting Management System
 
-A Java-based desktop application (Data Structure and Algorithm Project) designed to provide a secure and user-friendly digital voting platform. The system allows users to register, log in, cast votes, and view voting results through an intuitive graphical interface.
+A Java-based desktop application (Object Oriented Programming Project) designed to provide a secure and user-friendly digital voting platform. The system allows users to register, log in, cast votes, and view voting results through an intuitive graphical interface.
 
 ## 🚀 Features
 
